@@ -1,5 +1,5 @@
 [package]
-name = "my-project"
+name = "WASM_exp001"
 version = "0.1.0"
 authors = ["lubabelaya <lbelaya@stc-spb.ru>"]
 edition = "2018"
