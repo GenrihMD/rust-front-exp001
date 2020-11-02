@@ -1,3 +1,3 @@
-import * as wasm from "hello-wasm-pack";
+import * as wasm from "../pkg/WASM_exp001_bg.js";
 
 wasm.greet();
